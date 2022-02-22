@@ -1,0 +1,41 @@
+*{
+	margin: 0px auto;
+	font-style: italic;
+}
+h1{
+	font-size: 50px;
+
+}
+.main{
+	height: 1000px;
+	width: 900px;
+	background-color: blueviolet;
+}
+
+.header{
+	height: 200px;
+	width: 900px;
+	background-color: red;
+}
+.content{
+	height: 600px;
+	width: 900px;
+	background-color: yellowgreen;
+}
+.footer{
+	height: 200px;
+	width: 900px;
+	background-color: blue;
+}
+.a{
+	height: 500px;
+	width: 100px;
+	background-color: black;
+	float: right;
+}
+.b{
+	height: 500px;
+	width: 100px;
+	background-color: black;
+	float: left;
+}
